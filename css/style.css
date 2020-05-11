@@ -45,6 +45,7 @@ section {
   color: black;
   overflow: auto;
   font-family: raleway;
+  padding:10px;
 }
 
 	@media (min-width: 992px) {
